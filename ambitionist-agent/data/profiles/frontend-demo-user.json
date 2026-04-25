@@ -1,0 +1,830 @@
+{
+  "userId": "frontend-demo-user",
+  "updatedAt": "2026-04-25T15:42:01.540Z",
+  "status": "ready",
+  "profile": {
+    "basicInfo": {
+      "name": "刘夕媛",
+      "school": "南方科技大学",
+      "grade": "大四",
+      "major": "Computer Science",
+      "targetGraduationYear": 2026,
+      "preferredRegion": []
+    },
+    "personalContext": {
+      "familyBackground": "",
+      "familySupportLevel": "unknown",
+      "relationshipStatus": "in_relationship",
+      "emotionalAnchors": [],
+      "responsibilities": []
+    },
+    "careerGoal": {
+      "primary": "agent scientist",
+      "secondary": [],
+      "targetDomains": [],
+      "targetRoles": [],
+      "offerSet": {
+        "CMU AI MS": true,
+        "UCLA CS PhD": true,
+        "HKUST AI PhD": true,
+        "NTU AI4S PhD": true
+      }
+    },
+    "futureVision": {
+      "fiveYearGoal": "",
+      "idealLifestyle": "",
+      "nonNegotiables": []
+    },
+    "constraints": {
+      "financialPressure": "unknown",
+      "cityPreference": [],
+      "timePressure": "unknown",
+      "visaOrLocationConstraint": "",
+      "relationshipConstraint": "不想与女朋友异地，女友计划去香港读博"
+    },
+    "riskPreference": {
+      "style": "unknown",
+      "volatilityTolerance": "unknown",
+      "reversibilityNeed": "unknown"
+    },
+    "decisionWeights": {
+      "moneyUrgency": 0,
+      "partnerDistanceAversion": 0,
+      "familyDistanceAversion": 0,
+      "domainPassion": 0,
+      "returnHomeExpectation": 0,
+      "marketProspectPriority": 0
+    },
+    "strengths": {
+      "engineering": "有Agent系统工程项目自述",
+      "research": "有论文复现与CV研究代码证据",
+      "competition": 0,
+      "communication": 0,
+      "internship": 0
+    },
+    "hiddenConcerns": [],
+    "valueRanking": [],
+    "profileSummary": [
+      "Identity: 刘夕媛 | 南方科技大学 | 大四",
+      "Primary goal: agent scientist",
+      "Relationship context: in_relationship",
+      "GitHub: mingzhi2004"
+    ],
+    "rawEvents": [
+      {
+        "type": "career_plan",
+        "name": "Current primary path",
+        "summary": "agent scientist",
+        "importanceScore": 90
+      }
+    ],
+    "resumeSnapshot": {
+      "headline": "大四 | Computer Science",
+      "education": [
+        "南方科技大学 | Computer Science | 大四"
+      ],
+      "highlights": [
+        "Primary path under consideration: agent scientist",
+        "GitHub bio signal: A senior undergraduate student in Sustech."
+      ],
+      "projects": [
+        {
+          "name": "mingzhi2004/mingzhi2004.github.io",
+          "type": "software project",
+          "techStack": [
+            "SCSS"
+          ],
+          "narrative": "Personal academic website built from the Academic Pages/Jekyll template. The repository shows practical familiarity with static-site tooling and deployment workflows, but the visible evidence points more to template adoption/customization than to substantial original software engineering.",
+          "technicalDepth": "low",
+          "resumeBullets": [
+            "Built and deployed a personal academic website using a Jekyll-based Academic Pages template with SCSS customization and local development via Bundler/Jekyll.",
+            "Set up reproducible local development workflows for a static site, including Ruby/Bundler dependencies and optional Docker/DevContainer support.",
+            "Maintained structured academic content using markdown-based publishing workflows, with support for notebook/Python-based generation of publication and presentation pages."
+          ]
+        },
+        {
+          "name": "mingzhi2004/VPR-Cloak",
+          "type": "software project",
+          "techStack": [
+            "Python"
+          ],
+          "narrative": "Research-oriented PyTorch code release for an ICCV 2025 paper on privacy-preserving visual place recognition attacks/defenses. The repo shows solid applied ML engineering around dataset handling, inference, evaluation, and attack pipelines, but appears to be an early code release with limited visible polish or community adoption.",
+          "technicalDepth": "medium",
+          "resumeBullets": [
+            "Built a PyTorch implementation of VPR-Cloak for privacy-preserving perturbation attacks against black-box visual place recognition systems.",
+            "Implemented multiple attack modes, including weighted spatial perturbations and DCT-based frequency attacks, with dataset-agnostic CLI workflows.",
+            "Integrated retrieval evaluation using Recall@N and visual fidelity metrics to assess both attack effectiveness and imperceptibility.",
+            "Used Faiss-based nearest-neighbor retrieval and batched feature extraction for scalable evaluation across large VPR datasets."
+          ]
+        },
+        {
+          "name": "mingzhi2004/mingzhi2004",
+          "type": "software project",
+          "techStack": [],
+          "narrative": "The GitHub repository 'mingzhi2004/mingzhi2004' serves primarily as a personal profile with minimal technical content or project artifacts. It contains a brief README introducing the student, MingZhi Chen, but lacks any code, projects, or technical documentation to evaluate.",
+          "technicalDepth": "low",
+          "resumeBullets": []
+        },
+        {
+          "name": "mingzhi2004/CS307-Project1",
+          "type": "software project",
+          "techStack": [
+            "Java"
+          ],
+          "narrative": "mingzhi2004/CS307-Project1 shows engineering inclination with low activity.",
+          "technicalDepth": "unknown",
+          "resumeBullets": []
+        },
+        {
+          "name": "mingzhi2004/sustech-notes",
+          "type": "software project",
+          "techStack": [
+            "C"
+          ],
+          "narrative": "mingzhi2004/sustech-notes shows engineering inclination with low activity.",
+          "technicalDepth": "unknown",
+          "resumeBullets": []
+        },
+        {
+          "name": "mingzhi2004/wnr",
+          "type": "software project",
+          "techStack": [
+            "JavaScript"
+          ],
+          "narrative": "mingzhi2004/wnr shows engineering inclination with low activity.",
+          "technicalDepth": "unknown",
+          "resumeBullets": []
+        }
+      ],
+      "experiences": [],
+      "constraints": [
+        "Relationship: in_relationship"
+      ],
+      "nextEvidenceToCollect": [
+        "Clarify family support and economic assumptions."
+      ]
+    },
+    "evidence": {
+      "onlinePresence": {
+        "githubUsername": "mingzhi2004",
+        "githubProfileUrl": "https://github.com/mingzhi2004",
+        "githubFocus": [
+          "software project",
+          "SCSS",
+          "engineering",
+          "Demonstrates initiative in creating a professional online presence.",
+          "Suggests comfort working with documentation-heavy repositories and adapting existing open-source templates.",
+          "Useful supporting project for internship applications, especially alongside stronger original coding projects.",
+          "Best positioned as portfolio infrastructure rather than a flagship engineering project.",
+          "Python",
+          "Strong fit for research-heavy ML/CV roles, especially in adversarial robustness, privacy, or retrieval systems.",
+          "Shows ability to translate a paper into runnable code with dataset setup, checkpoints, and reproducible evaluation scripts.",
+          "Signals familiarity with practical ML tooling: PyTorch, DataLoader pipelines, model loading, and evaluation infrastructure.",
+          "CS major undergraduate",
+          "Basic GitHub presence indicating initial steps in professional online portfolio",
+          "Java",
+          "C",
+          "JavaScript"
+        ],
+        "githubBio": "A senior undergraduate student in Sustech.",
+        "reposObserved": 6,
+        "lastSyncedAt": 1777131632102
+      },
+      "github": [
+        {
+          "repo": "mingzhi2004/mingzhi2004.github.io",
+          "type": "software project",
+          "techStack": [
+            "SCSS"
+          ],
+          "inclination": "engineering",
+          "activityLevel": "medium",
+          "projectAnalysis": {
+            "summary": "Personal academic website built from the Academic Pages/Jekyll template. The repository shows practical familiarity with static-site tooling and deployment workflows, but the visible evidence points more to template adoption/customization than to substantial original software engineering.",
+            "roleSignals": [
+              "Good fit for roles where a personal/academic web presence and basic frontend/site maintenance are relevant.",
+              "Shows exposure to static-site generation, GitHub Pages-style deployment, Ruby/Bundler/Jekyll workflows, and SCSS-based theme customization.",
+              "Weak evidence for backend, systems, data engineering, or full-stack product development from this repo alone.",
+              "Potential signal for research/student profiles: can organize publications/talks content and maintain technical documentation."
+            ],
+            "technicalDepth": "low",
+            "productMaturity": "medium",
+            "resumeBullets": [
+              "Built and deployed a personal academic website using a Jekyll-based Academic Pages template with SCSS customization and local development via Bundler/Jekyll.",
+              "Set up reproducible local development workflows for a static site, including Ruby/Bundler dependencies and optional Docker/DevContainer support.",
+              "Maintained structured academic content using markdown-based publishing workflows, with support for notebook/Python-based generation of publication and presentation pages."
+            ],
+            "careerSignals": [
+              "Demonstrates initiative in creating a professional online presence.",
+              "Suggests comfort working with documentation-heavy repositories and adapting existing open-source templates.",
+              "Useful supporting project for internship applications, especially alongside stronger original coding projects.",
+              "Best positioned as portfolio infrastructure rather than a flagship engineering project."
+            ],
+            "risks": [
+              "README content appears largely inherited from the upstream Academic Pages template, so originality is hard to verify.",
+              "Source samples provided are mostly markdown/template files rather than custom application logic.",
+              "No clear evidence of complex frontend engineering, testing, CI customization, performance work, or significant feature development.",
+              "Low repository traction (0 stars, 0 forks) and limited visible implementation detail reduce external validation."
+            ]
+          }
+        },
+        {
+          "repo": "mingzhi2004/VPR-Cloak",
+          "type": "software project",
+          "techStack": [
+            "Python"
+          ],
+          "inclination": "engineering",
+          "activityLevel": "low",
+          "projectAnalysis": {
+            "summary": "Research-oriented PyTorch code release for an ICCV 2025 paper on privacy-preserving visual place recognition attacks/defenses. The repo shows solid applied ML engineering around dataset handling, inference, evaluation, and attack pipelines, but appears to be an early code release with limited visible polish or community adoption.",
+            "roleSignals": [
+              "Applied machine learning / computer vision engineer",
+              "Research engineer for privacy, adversarial ML, or visual retrieval",
+              "PyTorch-based CV/ML prototype developer"
+            ],
+            "technicalDepth": "medium",
+            "productMaturity": "early",
+            "resumeBullets": [
+              "Built a PyTorch implementation of VPR-Cloak for privacy-preserving perturbation attacks against black-box visual place recognition systems.",
+              "Implemented multiple attack modes, including weighted spatial perturbations and DCT-based frequency attacks, with dataset-agnostic CLI workflows.",
+              "Integrated retrieval evaluation using Recall@N and visual fidelity metrics to assess both attack effectiveness and imperceptibility.",
+              "Used Faiss-based nearest-neighbor retrieval and batched feature extraction for scalable evaluation across large VPR datasets."
+            ],
+            "careerSignals": [
+              "Strong fit for research-heavy ML/CV roles, especially in adversarial robustness, privacy, or retrieval systems.",
+              "Shows ability to translate a paper into runnable code with dataset setup, checkpoints, and reproducible evaluation scripts.",
+              "Signals familiarity with practical ML tooling: PyTorch, DataLoader pipelines, model loading, and evaluation infrastructure."
+            ],
+            "risks": [
+              "Low GitHub activity and very small stars/forks suggest limited external validation.",
+              "Maturity looks closer to a paper code drop than a polished product or long-lived open-source project.",
+              "Only Python is visible; limited evidence of testing, packaging, documentation depth, or CI.",
+              "Repo content suggests more implementation of an existing paper than independent system design from scratch."
+            ]
+          }
+        },
+        {
+          "repo": "mingzhi2004/mingzhi2004",
+          "type": "software project",
+          "techStack": [],
+          "inclination": "engineering",
+          "activityLevel": "low",
+          "projectAnalysis": {
+            "summary": "The GitHub repository 'mingzhi2004/mingzhi2004' serves primarily as a personal profile with minimal technical content or project artifacts. It contains a brief README introducing the student, MingZhi Chen, but lacks any code, projects, or technical documentation to evaluate.",
+            "roleSignals": [],
+            "technicalDepth": "low",
+            "productMaturity": "early",
+            "resumeBullets": [],
+            "careerSignals": [
+              "CS major undergraduate",
+              "Basic GitHub presence indicating initial steps in professional online portfolio"
+            ],
+            "risks": [
+              "No demonstrated coding projects or technical contributions",
+              "Lack of evidence for practical skills or project experience",
+              "Low activity and no community engagement on GitHub"
+            ]
+          }
+        },
+        {
+          "repo": "mingzhi2004/CS307-Project1",
+          "type": "software project",
+          "techStack": [
+            "Java"
+          ],
+          "inclination": "engineering",
+          "activityLevel": "low",
+          "projectAnalysis": null
+        },
+        {
+          "repo": "mingzhi2004/sustech-notes",
+          "type": "software project",
+          "techStack": [
+            "C"
+          ],
+          "inclination": "engineering",
+          "activityLevel": "low",
+          "projectAnalysis": null
+        },
+        {
+          "repo": "mingzhi2004/wnr",
+          "type": "software project",
+          "techStack": [
+            "JavaScript"
+          ],
+          "inclination": "engineering",
+          "activityLevel": "low",
+          "projectAnalysis": null
+        }
+      ],
+      "airjelly": [],
+      "projectFocus": [
+        "LLM",
+        "RAG",
+        "Agent系统",
+        "论文复现",
+        "Jupyter Notebook"
+      ]
+    },
+    "school": "南方科技大学",
+    "grade": "大四",
+    "targetGraduationYear": 2026,
+    "primaryGoal": "agent scientist",
+    "relationshipConstraint": "不想与女朋友异地，女友计划去香港读博",
+    "offerSet": [
+      "CMU AI MS",
+      "UCLA CS PhD",
+      "HKUST AI PhD",
+      "NTU AI4S PhD"
+    ],
+    "githubSignal": "mingzhi2004，具备研究型ML项目证据"
+  },
+  "profileSummary": [
+    "Identity: 刘夕媛 | 南方科技大学 | 大四",
+    "Primary goal: agent scientist",
+    "Relationship context: in_relationship",
+    "GitHub: mingzhi2004"
+  ],
+  "resumeSnapshot": {
+    "headline": "大四 | Computer Science",
+    "education": [
+      "南方科技大学 | Computer Science | 大四"
+    ],
+    "highlights": [
+      "Primary path under consideration: agent scientist",
+      "GitHub bio signal: A senior undergraduate student in Sustech."
+    ],
+    "projects": [
+      {
+        "name": "mingzhi2004/mingzhi2004.github.io",
+        "type": "software project",
+        "techStack": [
+          "SCSS"
+        ],
+        "narrative": "Personal academic website built from the Academic Pages/Jekyll template. The repository shows practical familiarity with static-site tooling and deployment workflows, but the visible evidence points more to template adoption/customization than to substantial original software engineering.",
+        "technicalDepth": "low",
+        "resumeBullets": [
+          "Built and deployed a personal academic website using a Jekyll-based Academic Pages template with SCSS customization and local development via Bundler/Jekyll.",
+          "Set up reproducible local development workflows for a static site, including Ruby/Bundler dependencies and optional Docker/DevContainer support.",
+          "Maintained structured academic content using markdown-based publishing workflows, with support for notebook/Python-based generation of publication and presentation pages."
+        ]
+      },
+      {
+        "name": "mingzhi2004/VPR-Cloak",
+        "type": "software project",
+        "techStack": [
+          "Python"
+        ],
+        "narrative": "Research-oriented PyTorch code release for an ICCV 2025 paper on privacy-preserving visual place recognition attacks/defenses. The repo shows solid applied ML engineering around dataset handling, inference, evaluation, and attack pipelines, but appears to be an early code release with limited visible polish or community adoption.",
+        "technicalDepth": "medium",
+        "resumeBullets": [
+          "Built a PyTorch implementation of VPR-Cloak for privacy-preserving perturbation attacks against black-box visual place recognition systems.",
+          "Implemented multiple attack modes, including weighted spatial perturbations and DCT-based frequency attacks, with dataset-agnostic CLI workflows.",
+          "Integrated retrieval evaluation using Recall@N and visual fidelity metrics to assess both attack effectiveness and imperceptibility.",
+          "Used Faiss-based nearest-neighbor retrieval and batched feature extraction for scalable evaluation across large VPR datasets."
+        ]
+      },
+      {
+        "name": "mingzhi2004/mingzhi2004",
+        "type": "software project",
+        "techStack": [],
+        "narrative": "The GitHub repository 'mingzhi2004/mingzhi2004' serves primarily as a personal profile with minimal technical content or project artifacts. It contains a brief README introducing the student, MingZhi Chen, but lacks any code, projects, or technical documentation to evaluate.",
+        "technicalDepth": "low",
+        "resumeBullets": []
+      },
+      {
+        "name": "mingzhi2004/CS307-Project1",
+        "type": "software project",
+        "techStack": [
+          "Java"
+        ],
+        "narrative": "mingzhi2004/CS307-Project1 shows engineering inclination with low activity.",
+        "technicalDepth": "unknown",
+        "resumeBullets": []
+      },
+      {
+        "name": "mingzhi2004/sustech-notes",
+        "type": "software project",
+        "techStack": [
+          "C"
+        ],
+        "narrative": "mingzhi2004/sustech-notes shows engineering inclination with low activity.",
+        "technicalDepth": "unknown",
+        "resumeBullets": []
+      },
+      {
+        "name": "mingzhi2004/wnr",
+        "type": "software project",
+        "techStack": [
+          "JavaScript"
+        ],
+        "narrative": "mingzhi2004/wnr shows engineering inclination with low activity.",
+        "technicalDepth": "unknown",
+        "resumeBullets": []
+      }
+    ],
+    "experiences": [],
+    "constraints": [
+      "Relationship: in_relationship"
+    ],
+    "nextEvidenceToCollect": [
+      "Clarify family support and economic assumptions."
+    ]
+  },
+  "transcript": [
+    {
+      "questionId": "first-self-introduction",
+      "question": "先做一个简短自我介绍吧：你叫什么或希望我怎么称呼你？来自哪所学校、什么专业、预计哪一年毕业？如果方便，也请提供你的 GitHub 账号或主页链接，我会用它来整理你的项目和能力证据。",
+      "answer": "我叫刘夕媛，是南方科技大学的大四学生，预计2026年毕业，github账号为mingzhi2004，想当agent scientist",
+      "importanceScore": 90,
+      "storageReason": "Contains stable identity/background and long-term career goal: Liu Xiyuan, senior at Southern University of Science and Technology, expected graduation in 2026, GitHub handle mingzhi2004, wants to become an agent scientist."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "以下是我的两个项目经历：\n1. 在 GitHub 个人项目 agent-career-compass 的开发中，我主导设计并实现了一套基于 TypeScript 和 Python 的智能化职业决策系统，利用 LLM 与 RAG 技术构建了深度访谈模块与动态成长库，实现了对用户职业画像的精准捕捉与个性化路径推演，展现了极强的 Agent 系统架构能力与工程落地水准。\n\n2. 与此同时，我通过维护 research-reading-notes 项目持续沉淀学术思考，利用 Jupyter Notebook 对前沿领域的科研论文进行复现与深度解析，不仅系统性地梳理了复杂的算法逻辑，更将技术敏感度与严谨的研究方法相结合，体现了在工程实践之外深厚的学术钻研能力与对行业趋势的敏锐洞察。",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "我希望不要和女朋友异地，她准备去香港读博，现在我有三个offer，分别是CMU AI MS、UCLA CS PhD、HKUST AI PhD、NTU AI4S PhD，你能给我合适的建议和计划吗",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "我希望不要和女朋友异地，她准备去香港读博，现在我有三个offer，分别是CMU AI MS、UCLA CS PhD、HKUST AI PhD、NTU AI4S PhD，你能给我合适的建议和计划吗",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    }
+  ],
+  "conversationHighlights": [
+    {
+      "questionId": "first-self-introduction",
+      "question": "先做一个简短自我介绍吧：你叫什么或希望我怎么称呼你？来自哪所学校、什么专业、预计哪一年毕业？如果方便，也请提供你的 GitHub 账号或主页链接，我会用它来整理你的项目和能力证据。",
+      "answer": "我叫刘夕媛，是南方科技大学的大四学生，预计2026年毕业，github账号为mingzhi2004，想当agent scientist",
+      "importanceScore": 90,
+      "storageReason": "Contains stable identity/background and long-term career goal: Liu Xiyuan, senior at Southern University of Science and Technology, expected graduation in 2026, GitHub handle mingzhi2004, wants to become an agent scientist."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "以下是我的两个项目经历：\n1. 在 GitHub 个人项目 agent-career-compass 的开发中，我主导设计并实现了一套基于 TypeScript 和 Python 的智能化职业决策系统，利用 LLM 与 RAG 技术构建了深度访谈模块与动态成长库，实现了对用户职业画像的精准捕捉与个性化路径推演，展现了极强的 Agent 系统架构能力与工程落地水准。\n\n2. 与此同时，我通过维护 research-reading-notes 项目持续沉淀学术思考，利用 Jupyter Notebook 对前沿领域的科研论文进行复现与深度解析，不仅系统性地梳理了复杂的算法逻辑，更将技术敏感度与严谨的研究方法相结合，体现了在工程实践之外深厚的学术钻研能力与对行业趋势的敏锐洞察。",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "我希望不要和女朋友异地，她准备去香港读博，现在我有三个offer，分别是CMU AI MS、UCLA CS PhD、HKUST AI PhD、NTU AI4S PhD，你能给我合适的建议和计划吗",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    },
+    {
+      "questionId": "ask-agent-scientist-definition-and-path",
+      "question": "你说想做 agent scientist，具体更想做哪一类：偏研究做新方法，还是偏工程把智能体系统做出来？你理想中的第一份工作或读研方向是什么？",
+      "answer": "我希望不要和女朋友异地，她准备去香港读博，现在我有三个offer，分别是CMU AI MS、UCLA CS PhD、HKUST AI PhD、NTU AI4S PhD，你能给我合适的建议和计划吗",
+      "importanceScore": 90,
+      "storageReason": "Provides durable relationship/location constraint affecting major career decisions: does not want long-distance relationship; girlfriend plans to pursue a PhD in Hong Kong."
+    }
+  ],
+  "rawEvents": [
+    {
+      "type": "career_plan",
+      "name": "Current primary path",
+      "summary": "agent scientist",
+      "importanceScore": 90
+    }
+  ],
+  "keyEvents": [
+    {
+      "type": "career_plan",
+      "name": "Current primary path",
+      "summary": "agent scientist",
+      "importanceScore": 90
+    }
+  ],
+  "progressSignals": {
+    "primaryGoal": "agent scientist",
+    "fiveYearGoal": "",
+    "topDecisionWeights": [],
+    "hiddenConcerns": [],
+    "profileSummary": [
+      "Identity: 刘夕媛 | 南方科技大学 | 大四",
+      "Primary goal: agent scientist",
+      "Relationship context: in_relationship",
+      "GitHub: mingzhi2004"
+    ],
+    "contradictions": [
+      "Relationship context exists, but city preference is still unclear."
+    ]
+  },
+  "storageDecision": {
+    "storageNotes": [
+      "Store stable profile facts: name Liu夕媛, SUSTech undergraduate, graduating 2026, GitHub mingzhi2004.",
+      "Store primary career goal: become an agent scientist.",
+      "Store major decision constraint: strong preference to avoid long-distance relationship because partner plans to do PhD in Hong Kong.",
+      "Store current option set/offers: CMU AI MS, UCLA CS PhD, HKUST AI PhD, NTU AI4S PhD.",
+      "Store evidence of capability from projects: built agent-career-compass using TypeScript/Python/LLM/RAG; maintains research-reading-notes with paper reproduction and analysis.",
+      "Note contradiction/ambiguity: when asked to clarify research-vs-engineering preference, user did not directly answer; preference remains unresolved despite evidence of strength in both areas.",
+      "Ignore duplicated answers caused by API/interview retry errors."
+    ],
+    "llmModel": "gpt-5.4"
+  },
+  "state": {
+    "phase": "done",
+    "profileCompleteness": 36,
+    "contradictions": [
+      "Relationship context exists, but city preference is still unclear."
+    ],
+    "askedQuestionIds": [
+      "first-self-introduction",
+      "llm-required-interview",
+      "llm-required-interview",
+      "ask-agent-scientist-definition-and-path",
+      "ask-agent-scientist-definition-and-path",
+      "ask-agent-scientist-definition-and-path"
+    ],
+    "latestSignals": [
+      {
+        "field": "basicInfo.name",
+        "value": "刘夕媛",
+        "source": "llm-state"
+      },
+      {
+        "field": "basicInfo.school",
+        "value": "南方科技大学",
+        "source": "llm-state"
+      },
+      {
+        "field": "basicInfo.grade",
+        "value": "大四",
+        "source": "llm-state"
+      },
+      {
+        "field": "basicInfo.targetGraduationYear",
+        "value": 2026,
+        "source": "llm-state"
+      },
+      {
+        "field": "careerGoal.primary",
+        "value": "agent scientist",
+        "source": "llm-state"
+      },
+      {
+        "field": "personalContext.relationshipStatus",
+        "value": "in_relationship",
+        "source": "llm-state"
+      },
+      {
+        "field": "constraints.relationshipConstraint",
+        "value": "不想与女朋友异地，女友计划去香港读博",
+        "source": "llm-state"
+      },
+      {
+        "field": "careerGoal.offerSet",
+        "value": {
+          "CMU AI MS": true,
+          "UCLA CS PhD": true,
+          "HKUST AI PhD": true,
+          "NTU AI4S PhD": true
+        },
+        "source": "llm-state"
+      },
+      {
+        "field": "strengths.engineering",
+        "value": "有Agent系统工程项目自述",
+        "source": "llm-state"
+      },
+      {
+        "field": "strengths.research",
+        "value": "有论文复现与CV研究代码证据",
+        "source": "llm-state"
+      }
+    ]
+  },
+  "interviewBoard": {
+    "completeness": 78,
+    "currentLayer": "value-ranking",
+    "interviewerMode": "tradeoff-clarifier",
+    "layerProgress": {},
+    "missingChecklist": [
+      {
+        "key": "offer_priority_order",
+        "done": false,
+        "prompt": "澄清科研平台、感情、方向匹配三者的优先级"
+      },
+      {
+        "key": "offer_evaluation_criteria",
+        "done": false,
+        "prompt": "明确做选择时最看重的判断标准"
+      },
+      {
+        "key": "phd_commitment",
+        "done": false,
+        "prompt": "确认是否真心接受长期博士训练与学术路径"
+      },
+      {
+        "key": "agent_subdirection",
+        "done": false,
+        "prompt": "明确Agent更偏基础研究、系统、还是应用落地"
+      },
+      {
+        "key": "region_flexibility",
+        "done": false,
+        "prompt": "确认对香港/美国/新加坡的长期接受度"
+      },
+      {
+        "key": "financial_pressure",
+        "done": false,
+        "prompt": "确认学费、奖学金、家庭支持是否影响决策"
+      }
+    ],
+    "pendingThemes": [],
+    "suggestedNextQuestion": {
+      "id": "q_offer_priority_tradeoff",
+      "prompt": "如果只能保住一件事，你会优先保住哪一个：做最强科研平台、尽量不和女朋友异地、还是尽快进入Agent相关方向？请按1到3排序，并各用一句话说明原因。",
+      "reason": "用户已经进入真实决策场景，先确认排序才能避免给出表面正确但不符合本人价值函数的建议",
+      "layer": "value-ranking",
+      "source": "llm-interview"
+    },
+    "contradictionQuestion": null,
+    "memoryGrounding": {
+      "available": false,
+      "source": "cli-status",
+      "dominantMode": "unknown",
+      "topTasks": [],
+      "focusProjects": [],
+      "semanticQueries": [],
+      "semanticSearchEnabled": false,
+      "taskQueue": {
+        "totalOpenTasks": 0,
+        "scenes": [],
+        "byScene": {},
+        "dispatchPlan": {}
+      }
+    }
+  },
+  "githubSync": {
+    "available": true,
+    "reason": "",
+    "profile": {
+      "username": "mingzhi2004",
+      "profileUrl": "https://github.com/mingzhi2004",
+      "bio": "A senior undergraduate student in Sustech."
+    },
+    "repos": [
+      {
+        "repo": "mingzhi2004/mingzhi2004.github.io",
+        "projectType": "software project",
+        "techStack": [
+          "SCSS"
+        ],
+        "inclination": "engineering",
+        "activityLevel": "medium",
+        "readmeAvailable": true,
+        "sourceSampleCount": 3,
+        "projectAnalysis": {
+          "summary": "Personal academic website built from the Academic Pages/Jekyll template. The repository shows practical familiarity with static-site tooling and deployment workflows, but the visible evidence points more to template adoption/customization than to substantial original software engineering.",
+          "roleSignals": [
+            "Good fit for roles where a personal/academic web presence and basic frontend/site maintenance are relevant.",
+            "Shows exposure to static-site generation, GitHub Pages-style deployment, Ruby/Bundler/Jekyll workflows, and SCSS-based theme customization.",
+            "Weak evidence for backend, systems, data engineering, or full-stack product development from this repo alone.",
+            "Potential signal for research/student profiles: can organize publications/talks content and maintain technical documentation."
+          ],
+          "technicalDepth": "low",
+          "productMaturity": "medium",
+          "careerSignals": [
+            "Demonstrates initiative in creating a professional online presence.",
+            "Suggests comfort working with documentation-heavy repositories and adapting existing open-source templates.",
+            "Useful supporting project for internship applications, especially alongside stronger original coding projects.",
+            "Best positioned as portfolio infrastructure rather than a flagship engineering project."
+          ],
+          "risks": [
+            "README content appears largely inherited from the upstream Academic Pages template, so originality is hard to verify.",
+            "Source samples provided are mostly markdown/template files rather than custom application logic.",
+            "No clear evidence of complex frontend engineering, testing, CI customization, performance work, or significant feature development.",
+            "Low repository traction (0 stars, 0 forks) and limited visible implementation detail reduce external validation."
+          ]
+        }
+      },
+      {
+        "repo": "mingzhi2004/VPR-Cloak",
+        "projectType": "software project",
+        "techStack": [
+          "Python"
+        ],
+        "inclination": "engineering",
+        "activityLevel": "low",
+        "readmeAvailable": true,
+        "sourceSampleCount": 4,
+        "projectAnalysis": {
+          "summary": "Research-oriented PyTorch code release for an ICCV 2025 paper on privacy-preserving visual place recognition attacks/defenses. The repo shows solid applied ML engineering around dataset handling, inference, evaluation, and attack pipelines, but appears to be an early code release with limited visible polish or community adoption.",
+          "roleSignals": [
+            "Applied machine learning / computer vision engineer",
+            "Research engineer for privacy, adversarial ML, or visual retrieval",
+            "PyTorch-based CV/ML prototype developer"
+          ],
+          "technicalDepth": "medium",
+          "productMaturity": "early",
+          "careerSignals": [
+            "Strong fit for research-heavy ML/CV roles, especially in adversarial robustness, privacy, or retrieval systems.",
+            "Shows ability to translate a paper into runnable code with dataset setup, checkpoints, and reproducible evaluation scripts.",
+            "Signals familiarity with practical ML tooling: PyTorch, DataLoader pipelines, model loading, and evaluation infrastructure."
+          ],
+          "risks": [
+            "Low GitHub activity and very small stars/forks suggest limited external validation.",
+            "Maturity looks closer to a paper code drop than a polished product or long-lived open-source project.",
+            "Only Python is visible; limited evidence of testing, packaging, documentation depth, or CI.",
+            "Repo content suggests more implementation of an existing paper than independent system design from scratch."
+          ]
+        }
+      },
+      {
+        "repo": "mingzhi2004/mingzhi2004",
+        "projectType": "software project",
+        "techStack": [],
+        "inclination": "engineering",
+        "activityLevel": "low",
+        "readmeAvailable": true,
+        "sourceSampleCount": 1,
+        "projectAnalysis": {
+          "summary": "The GitHub repository 'mingzhi2004/mingzhi2004' serves primarily as a personal profile with minimal technical content or project artifacts. It contains a brief README introducing the student, MingZhi Chen, but lacks any code, projects, or technical documentation to evaluate.",
+          "roleSignals": [],
+          "technicalDepth": "low",
+          "productMaturity": "early",
+          "careerSignals": [
+            "CS major undergraduate",
+            "Basic GitHub presence indicating initial steps in professional online portfolio"
+          ],
+          "risks": [
+            "No demonstrated coding projects or technical contributions",
+            "Lack of evidence for practical skills or project experience",
+            "Low activity and no community engagement on GitHub"
+          ]
+        }
+      },
+      {
+        "repo": "mingzhi2004/CS307-Project1",
+        "projectType": "software project",
+        "techStack": [
+          "Java"
+        ],
+        "inclination": "engineering",
+        "activityLevel": "low",
+        "readmeAvailable": false,
+        "sourceSampleCount": 0,
+        "projectAnalysis": null
+      },
+      {
+        "repo": "mingzhi2004/sustech-notes",
+        "projectType": "software project",
+        "techStack": [
+          "C"
+        ],
+        "inclination": "engineering",
+        "activityLevel": "low",
+        "readmeAvailable": false,
+        "sourceSampleCount": 0,
+        "projectAnalysis": null
+      },
+      {
+        "repo": "mingzhi2004/wnr",
+        "projectType": "software project",
+        "techStack": [
+          "JavaScript"
+        ],
+        "inclination": "engineering",
+        "activityLevel": "low",
+        "readmeAvailable": false,
+        "sourceSampleCount": 0,
+        "projectAnalysis": null
+      }
+    ]
+  },
+  "airjelly": {
+    "available": false,
+    "source": "cli-status",
+    "errorType": "",
+    "error": "",
+    "warnings": [
+      "AirJelly status check failed; open task queue was not loaded."
+    ],
+    "semanticSearchEnabled": false,
+    "semanticQueries": [],
+    "contextSummary": {
+      "dominantMode": "unknown",
+      "topApps": [],
+      "topTasks": [],
+      "focusProjects": [],
+      "semanticMatches": []
+    },
+    "counterEvidence": [],
+    "interviewHints": [],
+    "capabilities": null
+  }
+}

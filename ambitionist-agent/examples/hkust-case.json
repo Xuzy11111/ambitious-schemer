@@ -1,0 +1,94 @@
+{
+  "targetYear": 2024,
+  "userMessage": "I want a path that still has upside, but I also want to start making money relatively soon and avoid being trapped in an extremely hard graduation path.",
+  "knownProfile": {
+    "basicInfo": {
+      "name": "Demo User",
+      "school": "Top CS Program",
+      "grade": "Senior",
+      "major": "Computer Science",
+      "targetGraduationYear": 2026,
+      "preferredRegion": ["Singapore", "Hong Kong"]
+    },
+    "careerGoal": {
+      "primary": "PhD",
+      "secondary": ["industry research"],
+      "targetDomains": ["AI", "agent", "systems"],
+      "targetRoles": ["research engineer", "applied scientist"]
+    },
+    "constraints": {
+      "familySupportLevel": "high",
+      "financialPressure": "low",
+      "cityPreference": ["asia"],
+      "timePressure": "medium",
+      "visaOrLocationConstraint": "family is based near Singapore"
+    },
+    "riskPreference": {
+      "style": "conservative",
+      "volatilityTolerance": "medium-low",
+      "reversibilityNeed": "high"
+    },
+    "strengths": {
+      "engineering": 8,
+      "research": 7,
+      "competition": 5,
+      "communication": 6,
+      "internship": 6
+    },
+    "hiddenConcerns": ["graduation_difficulty", "wants_fast_income"],
+    "valueRanking": ["growth", "optionality", "income"],
+    "profileSummary": [],
+    "rawEvents": [],
+    "evidence": {
+      "github": [],
+      "airjelly": []
+    }
+  },
+  "transcript": [
+    {
+      "questionId": "bg-primary-goal",
+      "question": "如果现在必须选，你更偏向直接工作、读硕士、还是读博？为什么？",
+      "answer": "I still prefer a PhD-like option, but not one that is too long, too hard to graduate from, or too disconnected from industry."
+    },
+    {
+      "questionId": "conflict-money",
+      "question": "你说想走这条路，背后更在意的是钱、平台、身份感、成长速度，还是安全感？请排序。",
+      "answer": "For me it is income first, then growth speed, then optionality. I do care about platform, but not at any cost."
+    }
+  ],
+  "rawEvents": [
+    {
+      "type": "offer",
+      "name": "CMU AI MS"
+    },
+    {
+      "type": "offer",
+      "name": "UCLA CS PhD"
+    },
+    {
+      "type": "offer",
+      "name": "HKUST AI PhD"
+    },
+    {
+      "type": "offer",
+      "name": "NTU AI4S PhD"
+    }
+  ],
+  "githubEvidence": [
+    {
+      "repo": "agent-career-compass",
+      "projectType": "agent system",
+      "techStack": ["TypeScript", "Python", "LLM", "RAG"],
+      "inclination": "engineering",
+      "activityLevel": "high"
+    },
+    {
+      "repo": "research-reading-notes",
+      "projectType": "research notes",
+      "techStack": ["Python", "Jupyter"],
+      "inclination": "research",
+      "activityLevel": "medium"
+    }
+  ],
+  "candidatePaths": []
+}

@@ -1,0 +1,143 @@
+export const TREND_SNAPSHOTS = {
+  2020: {
+    year: 2020,
+    hotDomains: ["backend", "mobile", "cross-border ecommerce", "cloud"],
+    risingDomains: ["ml engineering"],
+    weakDomains: ["agent applications"],
+    hiringMood: "engineering demand is stable, large models have not yet exploded",
+    researchClimate: "classic AI and systems remain valuable, but industry pull is weaker than later years",
+    compensationBias: {
+      engineering: 8,
+      research: 6,
+      startup: 5,
+    },
+    notes: [
+      "traditional engineering routes are more legible",
+      "top research routes still signal strongly but require longer cycles",
+    ],
+  },
+  2022: {
+    year: 2022,
+    hotDomains: ["ml systems", "infra", "data engineering", "recommendation"],
+    risingDomains: ["foundation models"],
+    weakDomains: ["consumer metaverse"],
+    hiringMood: "market becomes selective but AI narrative is stronger",
+    researchClimate: "foundation model research becomes more attractive",
+    compensationBias: {
+      engineering: 7,
+      research: 7,
+      startup: 5,
+    },
+    notes: [
+      "AI begins to reshape direction choice",
+      "students need stronger evidence than keywords alone",
+    ],
+  },
+  2024: {
+    year: 2024,
+    hotDomains: ["agent", "ai infra", "llm application", "ml systems"],
+    risingDomains: ["workflow automation", "evaluation", "enterprise ai"],
+    weakDomains: ["generic app-only differentiation"],
+    hiringMood: "high enthusiasm for AI, but demand concentrates on strong builders",
+    researchClimate: "applied AI and systems research both benefit from LLM momentum",
+    compensationBias: {
+      engineering: 8,
+      research: 7,
+      startup: 7,
+    },
+    notes: [
+      "agent demos are hot but need real execution credibility",
+      "students with shipping ability gain leverage quickly",
+    ],
+  },
+  2026: {
+    year: 2026,
+    hotDomains: ["agent infra", "ai systems", "robotics software", "security for ai"],
+    risingDomains: ["personalized autonomous workflows", "vertical agents"],
+    weakDomains: ["shallow wrapper products"],
+    hiringMood: "market rewards depth, distribution, and reliable long-term fit",
+    researchClimate: "industry-research boundaries blur; hybrid profiles are strong",
+    compensationBias: {
+      engineering: 8,
+      research: 8,
+      startup: 6,
+    },
+    notes: [
+      "switching cost matters more because surface-level AI skill becomes common",
+      "people with compounding evidence win over trend chasers",
+    ],
+  },
+};
+
+export const PATH_LIBRARY = [
+  {
+    pathId: "direct-job-ai-engineer",
+    title: "Direct Job -> AI Engineer",
+    category: "job",
+    tags: ["engineering", "income", "fast feedback", "industry"],
+    baseScores: {
+      longTermPotential: 7.5,
+      shortTermMonetization: 9,
+      riskControl: 7,
+      reversibility: 8,
+      switchingCost: 7,
+    },
+    fitSignals: ["financialPressure", "engineeringStrength", "wantsFastIncome"],
+  },
+  {
+    pathId: "ms-ai-overseas",
+    title: "Overseas MS -> Re-enter Job Market",
+    category: "master",
+    tags: ["brand", "transition", "network", "job reset"],
+    baseScores: {
+      longTermPotential: 7,
+      shortTermMonetization: 5,
+      riskControl: 5,
+      reversibility: 7,
+      switchingCost: 5,
+    },
+    fitSignals: ["brandSeeking", "moderateResearchInterest", "canAffordTuition"],
+  },
+  {
+    pathId: "phd-top-research",
+    title: "Top PhD -> Research Track",
+    category: "phd",
+    tags: ["research", "upside", "long cycle", "academic leverage"],
+    baseScores: {
+      longTermPotential: 9.5,
+      shortTermMonetization: 3.5,
+      riskControl: 4,
+      reversibility: 3,
+      switchingCost: 3,
+    },
+    fitSignals: ["researchStrength", "lowIncomePressure", "highRiskTolerance"],
+  },
+  {
+    pathId: "phd-balanced-asia",
+    title: "Balanced PhD -> Asia Hub",
+    category: "phd",
+    tags: ["balanced", "regional network", "controlled risk", "resourceful advisor"],
+    baseScores: {
+      longTermPotential: 8,
+      shortTermMonetization: 5.5,
+      riskControl: 7,
+      reversibility: 6,
+      switchingCost: 6,
+    },
+    fitSignals: ["wantsResearchOption", "needsGraduationControl", "regionalFamilyFit"],
+  },
+  {
+    pathId: "startup-agent-builder",
+    title: "Agent Startup / Builder Path",
+    category: "startup",
+    tags: ["agent", "speed", "ownership", "high uncertainty"],
+    baseScores: {
+      longTermPotential: 8.5,
+      shortTermMonetization: 4.5,
+      riskControl: 3.5,
+      reversibility: 5.5,
+      switchingCost: 5,
+    },
+    fitSignals: ["highAgency", "builderIdentity", "highRiskTolerance"],
+  },
+];

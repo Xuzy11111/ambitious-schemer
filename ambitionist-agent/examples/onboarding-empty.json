@@ -1,0 +1,84 @@
+{
+  "userId": "frank-demo",
+  "targetYear": 2024,
+  "userMessage": "我现在是计算机专业学生，快毕业了，但我还不确定是工作、读研还是读博。",
+  "knownProfile": {
+    "basicInfo": {
+      "name": "",
+      "school": "",
+      "grade": "",
+      "major": "Computer Science",
+      "targetGraduationYear": null,
+      "preferredRegion": []
+    },
+    "personalContext": {
+      "familyBackground": "",
+      "familySupportLevel": "unknown",
+      "relationshipStatus": "unknown",
+      "emotionalAnchors": [],
+      "responsibilities": []
+    },
+    "careerGoal": {
+      "primary": "",
+      "secondary": [],
+      "targetDomains": [],
+      "targetRoles": []
+    },
+    "futureVision": {
+      "fiveYearGoal": "",
+      "idealLifestyle": "",
+      "nonNegotiables": []
+    },
+    "constraints": {
+      "financialPressure": "unknown",
+      "cityPreference": [],
+      "timePressure": "unknown",
+      "visaOrLocationConstraint": ""
+    },
+    "riskPreference": {
+      "style": "unknown",
+      "volatilityTolerance": "unknown",
+      "reversibilityNeed": "unknown"
+    },
+    "strengths": {
+      "engineering": 0,
+      "research": 0,
+      "competition": 0,
+      "communication": 0,
+      "internship": 0
+    },
+    "hiddenConcerns": [],
+    "valueRanking": [],
+    "profileSummary": [],
+    "rawEvents": [],
+    "resumeSnapshot": {
+      "headline": "",
+      "education": [],
+      "highlights": [],
+      "projects": [],
+      "experiences": [],
+      "constraints": [],
+      "nextEvidenceToCollect": []
+    },
+    "evidence": {
+      "onlinePresence": {
+        "githubUsername": "",
+        "githubProfileUrl": "",
+        "githubFocus": [],
+        "githubBio": "",
+        "reposObserved": 0,
+        "lastSyncedAt": 0
+      },
+      "github": [],
+      "airjelly": []
+    }
+  },
+  "transcript": [],
+  "rawEvents": [],
+  "githubEvidence": [],
+  "candidatePaths": [],
+  "storage": {
+    "enabled": true,
+    "dir": "./data/profiles"
+  }
+}

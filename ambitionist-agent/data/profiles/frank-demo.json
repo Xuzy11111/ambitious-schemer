@@ -1,0 +1,230 @@
+{
+  "userId": "frank-demo",
+  "updatedAt": "2026-04-24T14:20:40.275Z",
+  "status": "needs_interview",
+  "profile": {
+    "basicInfo": {
+      "name": "",
+      "school": "",
+      "grade": "",
+      "major": "Computer Science",
+      "targetGraduationYear": null,
+      "preferredRegion": []
+    },
+    "personalContext": {
+      "familyBackground": "",
+      "familySupportLevel": "unknown",
+      "relationshipStatus": "unknown",
+      "emotionalAnchors": [],
+      "responsibilities": []
+    },
+    "careerGoal": {
+      "primary": "",
+      "secondary": [],
+      "targetDomains": [],
+      "targetRoles": []
+    },
+    "futureVision": {
+      "fiveYearGoal": "",
+      "idealLifestyle": "",
+      "nonNegotiables": []
+    },
+    "constraints": {
+      "financialPressure": "unknown",
+      "cityPreference": [],
+      "timePressure": "unknown",
+      "visaOrLocationConstraint": ""
+    },
+    "riskPreference": {
+      "style": "unknown",
+      "volatilityTolerance": "unknown",
+      "reversibilityNeed": "unknown"
+    },
+    "decisionWeights": {
+      "moneyUrgency": 0,
+      "partnerDistanceAversion": 0,
+      "familyDistanceAversion": 0,
+      "domainPassion": 0,
+      "returnHomeExpectation": 0,
+      "marketProspectPriority": 0
+    },
+    "strengths": {
+      "engineering": 0,
+      "research": 0,
+      "competition": 0,
+      "communication": 0,
+      "internship": 0
+    },
+    "hiddenConcerns": [],
+    "valueRanking": [],
+    "profileSummary": [],
+    "rawEvents": [],
+    "resumeSnapshot": {
+      "headline": "Computer Science",
+      "education": [
+        "Computer Science"
+      ],
+      "highlights": [],
+      "projects": [],
+      "experiences": [],
+      "constraints": [],
+      "nextEvidenceToCollect": [
+        "Collect GitHub username and main repositories.",
+        "Clarify family support and economic assumptions.",
+        "Clarify whether relationship status affects city or migration choices."
+      ]
+    },
+    "evidence": {
+      "onlinePresence": {
+        "githubUsername": "",
+        "githubProfileUrl": "",
+        "githubFocus": [],
+        "githubBio": "",
+        "reposObserved": 0,
+        "lastSyncedAt": 1777040440274
+      },
+      "github": [],
+      "airjelly": []
+    }
+  },
+  "profileSummary": [],
+  "resumeSnapshot": {
+    "headline": "Computer Science",
+    "education": [
+      "Computer Science"
+    ],
+    "highlights": [],
+    "projects": [],
+    "experiences": [],
+    "constraints": [],
+    "nextEvidenceToCollect": [
+      "Collect GitHub username and main repositories.",
+      "Clarify family support and economic assumptions.",
+      "Clarify whether relationship status affects city or migration choices."
+    ]
+  },
+  "transcript": [],
+  "conversationHighlights": [],
+  "rawEvents": [],
+  "keyEvents": [],
+  "progressSignals": {
+    "primaryGoal": "",
+    "fiveYearGoal": "",
+    "topDecisionWeights": [],
+    "hiddenConcerns": [],
+    "profileSummary": [],
+    "contradictions": []
+  },
+  "state": {
+    "phase": "interviewing",
+    "profileCompleteness": 0,
+    "contradictions": [],
+    "askedQuestionIds": [],
+    "latestSignals": []
+  },
+  "interviewBoard": {
+    "completeness": 0,
+    "currentLayer": "background",
+    "interviewerMode": "先补齐事实和约束",
+    "layerProgress": {
+      "background": {
+        "completed": 0,
+        "total": 8
+      },
+      "conflict": {
+        "completed": 0,
+        "total": 3
+      },
+      "value-ranking": {
+        "completed": 0,
+        "total": 4
+      }
+    },
+    "missingChecklist": [
+      {
+        "key": "identity",
+        "done": false,
+        "prompt": "姓名/学校/年级/毕业时间"
+      },
+      {
+        "key": "family",
+        "done": false,
+        "prompt": "家庭背景/经济支持/父母期待"
+      },
+      {
+        "key": "relationship",
+        "done": false,
+        "prompt": "对象或感情状态对地域和风险的影响"
+      },
+      {
+        "key": "github",
+        "done": false,
+        "prompt": "GitHub 账号和项目证据"
+      },
+      {
+        "key": "goal",
+        "done": false,
+        "prompt": "当前毕业路径和五年目标"
+      },
+      {
+        "key": "values",
+        "done": false,
+        "prompt": "价值排序和真实决策变量"
+      },
+      {
+        "key": "weights",
+        "done": false,
+        "prompt": "给关键诉求打权重分数（赚钱/伴侣/家人/方向喜爱/回国/前景）"
+      }
+    ],
+    "pendingThemes": [
+      "identity",
+      "evidence",
+      "family",
+      "goal",
+      "weights"
+    ],
+    "suggestedNextQuestion": {
+      "id": "bg-name-school",
+      "prompt": "先告诉我你的姓名或昵称、学校、年级，以及预计毕业时间。",
+      "layer": "background",
+      "reason": "建立最基础的身份和决策时间窗口。",
+      "source": "question-bank"
+    },
+    "contradictionQuestion": null,
+    "memoryGrounding": {
+      "available": false,
+      "source": "none",
+      "dominantMode": "unknown",
+      "topTasks": [],
+      "focusProjects": [],
+      "semanticQueries": [],
+      "semanticSearchEnabled": false
+    }
+  },
+  "githubSync": {
+    "available": false,
+    "reason": "",
+    "profile": null,
+    "repos": []
+  },
+  "airjelly": {
+    "available": false,
+    "source": "none",
+    "errorType": "",
+    "error": "",
+    "warnings": [],
+    "semanticSearchEnabled": false,
+    "semanticQueries": [],
+    "contextSummary": {
+      "dominantMode": "unknown",
+      "topApps": [],
+      "topTasks": [],
+      "focusProjects": [],
+      "semanticMatches": []
+    },
+    "counterEvidence": [],
+    "interviewHints": [],
+    "capabilities": null
+  }
+}

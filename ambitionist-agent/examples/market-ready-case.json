@@ -1,0 +1,246 @@
+{
+  "userId": "market-demo-user",
+  "targetYear": 2026,
+  "userMessage": "I want to compare a balanced Asia PhD, direct AI engineering, and an agent builder path using current market evidence.",
+  "knownProfile": {
+    "basicInfo": {
+      "name": "Market Demo User",
+      "school": "Top CS Program",
+      "grade": "Senior",
+      "major": "Computer Science",
+      "targetGraduationYear": 2026,
+      "preferredRegion": ["Singapore", "Hong Kong"]
+    },
+    "personalContext": {
+      "familyBackground": "Family can support graduate school, but prefers a plan with clear industry reversibility.",
+      "familySupportLevel": "high",
+      "relationshipStatus": "partner_in_asia",
+      "emotionalAnchors": ["partner", "family"],
+      "responsibilities": ["stay reasonably close to Asia"]
+    },
+    "careerGoal": {
+      "primary": "PhD with industry-relevant AI systems direction",
+      "secondary": ["research engineer", "AI infra engineer"],
+      "targetDomains": ["agent", "ai systems", "systems"],
+      "targetRoles": ["research engineer", "applied scientist", "AI infra engineer"]
+    },
+    "futureVision": {
+      "fiveYearGoal": "Become a research engineer who can ship reliable AI systems and still keep a PhD/research option open.",
+      "idealLifestyle": "Technically deep work with Asia-based relationship and family stability.",
+      "nonNegotiables": ["industry relevance", "reversibility", "Asia optionality"]
+    },
+    "constraints": {
+      "financialPressure": "low",
+      "cityPreference": ["asia"],
+      "timePressure": "medium",
+      "visaOrLocationConstraint": "Prefer Asia hubs or paths that keep return-home flexibility."
+    },
+    "riskPreference": {
+      "style": "conservative",
+      "volatilityTolerance": "medium-low",
+      "reversibilityNeed": "high"
+    },
+    "decisionWeights": {
+      "moneyUrgency": 4,
+      "partnerDistanceAversion": 8,
+      "familyDistanceAversion": 7,
+      "domainPassion": 9,
+      "returnHomeExpectation": 8,
+      "marketProspectPriority": 9
+    },
+    "strengths": {
+      "engineering": 8,
+      "research": 8,
+      "competition": 5,
+      "communication": 7,
+      "internship": 6
+    },
+    "hiddenConcerns": ["graduation_difficulty", "wants_fast_income"],
+    "valueRanking": ["growth", "optionality", "family proximity", "income", "platform"],
+    "profileSummary": [],
+    "rawEvents": [],
+    "resumeSnapshot": {
+      "headline": "",
+      "education": [],
+      "highlights": [],
+      "projects": [],
+      "experiences": [],
+      "constraints": [],
+      "nextEvidenceToCollect": []
+    },
+    "evidence": {
+      "onlinePresence": {
+        "githubUsername": "market-demo",
+        "githubProfileUrl": "https://github.com/market-demo",
+        "githubFocus": ["agent", "systems", "typescript", "python"],
+        "githubBio": "AI systems builder",
+        "reposObserved": 2,
+        "lastSyncedAt": 0
+      },
+      "github": [],
+      "airjelly": []
+    }
+  },
+  "transcript": [
+    {
+      "questionId": "bg-name-school",
+      "question": "先告诉我你的姓名或昵称、学校、年级，以及预计毕业时间。",
+      "answer": "I am a senior CS student at a top CS program and expect to graduate in 2026."
+    },
+    {
+      "questionId": "bg-primary-goal",
+      "question": "如果现在必须选，你更偏向直接工作、读硕士、还是读博？为什么？",
+      "answer": "I prefer a PhD-like route, but it must stay industry-relevant and reversible."
+    },
+    {
+      "questionId": "value-weight-scoring",
+      "question": "请你给关键诉求按 0-10 打分。",
+      "answer": "赚钱=4，伴侣=8，家人=7，方向喜爱=9，回国=8，前景=9。"
+    }
+  ],
+  "rawEvents": [
+    {
+      "type": "offer",
+      "name": "HKUST AI PhD"
+    },
+    {
+      "type": "offer",
+      "name": "Singapore AI Systems Lab RA"
+    }
+  ],
+  "githubEvidence": [
+    {
+      "repo": "agent-career-compass",
+      "projectType": "agent system",
+      "techStack": ["TypeScript", "Python", "LLM", "RAG"],
+      "inclination": "engineering",
+      "activityLevel": "high"
+    },
+    {
+      "repo": "systems-eval-lab",
+      "projectType": "AI systems evaluation",
+      "techStack": ["Python", "Jupyter", "Docker"],
+      "inclination": "research",
+      "activityLevel": "high"
+    }
+  ],
+  "careerMemories": [
+    {
+      "id": "job-anthropic-ai-systems-2026-04",
+      "kind": "job",
+      "title": "AI Systems Engineer roles favor agent infra depth (2026-04)",
+      "content": "Recent senior AI systems roles emphasize evaluation, reliable agent workflows, observability, and infrastructure depth rather than shallow wrapper demos.",
+      "keywords": ["agent infra", "ai systems", "engineering", "evaluation"],
+      "entities": ["Anthropic", "OpenAI", "AI systems"],
+      "version": 1,
+      "status": "active",
+      "source": "fixture-job-market",
+      "createdAt": 1777046400000,
+      "updatedAt": 1777046400000,
+      "payload": {
+        "type": "job_signal",
+        "targetYear": 2026,
+        "categories": ["job", "startup"],
+        "tags": ["agent infra", "ai systems", "evaluation"],
+        "dimensions": {
+          "skillMatch": 0.78,
+          "marketStability": 0.72,
+          "growthPotential": 0.82
+        },
+        "impact": 0.9,
+        "confidence": 0.74
+      }
+    },
+    {
+      "id": "industry-hybrid-research-engineer-2026-q2",
+      "kind": "industry",
+      "title": "Hybrid research-engineer profiles gain leverage in Asia AI labs",
+      "content": "Asia-based AI labs increasingly reward candidates who combine publishable systems work with production engineering credibility.",
+      "keywords": ["research", "ai systems", "asia", "phd"],
+      "entities": ["Asia AI labs", "research engineer"],
+      "version": 1,
+      "status": "active",
+      "source": "fixture-industry-report",
+      "createdAt": 1777046400000,
+      "updatedAt": 1777046400000,
+      "payload": {
+        "type": "industry_signal",
+        "targetYear": 2026,
+        "pathIds": ["phd-balanced-asia"],
+        "tags": ["research", "ai systems", "asia"],
+        "dimensions": {
+          "trajectoryFit": 0.86,
+          "marketStability": 0.74,
+          "growthPotential": 0.8,
+          "locationFit": 0.9
+        },
+        "impact": 1,
+        "confidence": 0.78
+      }
+    },
+    {
+      "id": "academic-long-cycle-risk-top-phd-2026",
+      "kind": "academic",
+      "title": "Top-cycle PhD path carries higher graduation uncertainty",
+      "content": "Elite AI PhD paths still have high upside, but advisor fit, publication pressure, and long-cycle uncertainty create meaningful risk for users who need reversibility.",
+      "keywords": ["research", "phd", "graduation_difficulty"],
+      "entities": ["AI PhD", "advisor fit"],
+      "version": 1,
+      "status": "active",
+      "source": "fixture-academic-risk",
+      "createdAt": 1777046400000,
+      "updatedAt": 1777046400000,
+      "payload": {
+        "type": "academic_signal",
+        "targetYear": 2026,
+        "pathIds": ["phd-top-research"],
+        "tags": ["research", "phd"],
+        "dimensions": {
+          "trajectoryFit": 0.58,
+          "marketStability": 0.66,
+          "growthPotential": 0.92,
+          "geopoliticalRisk": 0.48
+        },
+        "impact": -0.7,
+        "confidence": 0.72
+      }
+    },
+    {
+      "id": "macro-overseas-visa-risk-2026-q2",
+      "kind": "macro",
+      "title": "Overseas study route faces higher visa and return-home uncertainty",
+      "content": "For students prioritizing Asia proximity and return-home flexibility, overseas master's routes introduce location friction and policy uncertainty.",
+      "keywords": ["overseas", "visa", "return-home", "master"],
+      "entities": ["visa policy", "overseas master's"],
+      "version": 1,
+      "status": "active",
+      "source": "fixture-macro-risk",
+      "createdAt": 1777046400000,
+      "updatedAt": 1777046400000,
+      "payload": {
+        "type": "macro_signal",
+        "targetYear": 2026,
+        "pathIds": ["ms-ai-overseas"],
+        "tags": ["overseas", "master", "visa"],
+        "dimensions": {
+          "marketStability": 0.48,
+          "geopoliticalRisk": 0.72,
+          "locationFit": 0.3
+        },
+        "impact": -0.85,
+        "confidence": 0.76
+      }
+    }
+  ],
+  "candidatePaths": [],
+  "storage": {
+    "enabled": false,
+    "dir": "./data/profiles"
+  },
+  "airjelly": {
+    "enableSemanticSearch": false,
+    "memoryWindowDays": 30,
+    "eventWindowDays": 14,
+    "semanticQueryLimit": 2
+  }
+}

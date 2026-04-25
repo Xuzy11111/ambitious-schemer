@@ -1,0 +1,16 @@
+{
+  "name": "ambitionist-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hackathon demo for a long-horizon career decision agent for CS students.",
+  "scripts": {
+    "demo": "node ./src/index.mjs demo ./examples/hkust-case.json",
+    "plan": "node ./src/index.mjs plan ./examples/hkust-case.json",
+    "interview": "node ./src/index.mjs interview ./examples/hkust-case.json",
+    "profile": "node ./src/index.mjs profile ./examples/hkust-case.json"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
